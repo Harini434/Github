@@ -664,7 +664,12 @@
   .hero{
     margin-top:25%;
   }
-  
+  .resume{
+    margin-top:10%;
+  }
+  .contact{
+    margin-top: 10%;
+  }
     .grid-item .item {
       flex-direction: column;
     }
