@@ -661,9 +661,6 @@
     .hero-content .name {
       font-size: 40px;
     }
-<<<<<<< HEAD
-   
-=======
   .hero{
     margin-top:10%;
   }
@@ -673,7 +670,6 @@
   .contact{
     margin-top: 10%;
   }
->>>>>>> 84d4dd33c1370b1196f8581bcc1e512883637064
     .grid-item .item {
       flex-direction: column;
     }
