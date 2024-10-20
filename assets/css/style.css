@@ -661,10 +661,7 @@
     .hero-content .name {
       font-size: 40px;
     }
-    .hero{
-      margin-top:25%;
-    }
-  
+   
     .grid-item .item {
       flex-direction: column;
     }
