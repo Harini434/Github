@@ -661,15 +661,15 @@
     .hero-content .name {
       font-size: 40px;
     }
-  .hero{
-    margin-top:10%;
-  }
-  .resume{
-    margin-top:10%;
-  }
-  .contact{
-    margin-top: 10%;
-  }
+    .hero{
+      margin-top:10%;
+    }
+    .resume{
+      margin-top:10%;
+    }
+    .contact{
+      margin-top: 10%;
+    }
     .grid-item .item {
       flex-direction: column;
     }
